@@ -5,6 +5,11 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+footer{
+    background-color: #000000;
+    padding: 8px 0;
+    text-align: center;
+}
 .cabecalho{
     background-color: #bb1616;
     color: white;
@@ -55,4 +60,8 @@ body{
 }
 .jogador-nome{
     align-items: center;
+}
+.rodape-imagem{
+    width: 150px;
+    height: 50px;
 }
